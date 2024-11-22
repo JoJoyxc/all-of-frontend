@@ -1,152 +1,131 @@
-<p align='center'>
-  <img alt="contributors" src="https://img.shields.io/github/contributors/KieSun/fucking-frontend.svg" />
-  <img alt="Stars" src="https://img.shields.io/github/stars/KieSun/fucking-frontend" />
-  <img alt="Forks" src="https://img.shields.io/github/forks/KieSun/fucking-frontend" />
-  <img alt="GitHub" src="https://img.shields.io/github/license/KieSun/fucking-frontend">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=KieSun.fucking-frontend" alt="visitor badge"/>  
-</p>
 
-<p align="center">
-  <img src="./img/logo.png" width="300" />
-</p>
+## 日常充电
 
-## 真全栈，全免费项目，学完直接上一个台阶
+- [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)，优秀的工程师都应该阅读的网站
 
-真全栈项目，适合前端进阶及转方向使用。项目包括前端、后端、Web3 最新技术栈，大杂烩，技术一锅端。
+### CSS 日常充电
 
-另外不是网上那些各种仿 xxx 的简单项目，尤其是后端会包括很多东西，学完直接上手做后端项目完全没问题。
+- [You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css)
+- [CSS Inspiration](https://csscoco.com/inspiration/#/)
+- [CSS Tricks](https://qishaoxuan.github.io/css_tricks/)
+- [spinkit](https://tobiasahlin.com/spinkit/) 需自备梯子
+- [animista](https://animista.net/)
 
-教学全免费，在 B 站直播，具体内容可点击仓库查看：https://github.com/KieSun/fullstack-project。
+## Github 优秀学习资料
 
-## 🔥 这是什么？
+### JS 优秀学习资料
 
-笔者在学会 JS 以及框架的应用后，有一段时间不知道该如何深入下去，活能干，就是不知道该学啥。相信这个问题也会有很多读者朋友遇到。
+- [33-js-concepts](https://github.com/leonardomso/33-js-concepts)
+- [JavaScript 安全指南](https://github.com/Tencent/secguide/blob/main/JavaScript%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97.md#1.1)
+- [What the f\*ck JavaScript?](https://github.com/denysdovhan/wtfjs)，有趣的 JavaScript 示例列表，附有解释
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)，适应于 JavaScript 的优雅代码建议
 
-当然笔者目前已经突破了这个瓶颈，也成为了知名公司基础架构组的成员。因此想通过自己成长的经历及积累的资料整理出一系列的学习路线及资料推荐，帮助各位读者朋友解决这个问题。
+### React 优秀学习资料
 
-> 笔者会列出所有前端必学及热门领域的学习路径及推荐资料，比如浏览器、性能优化、框架、工程化、算法等等，工程浩大，大家可以持续关注该项目！
+- [react-philosophies](https://github.com/mithi/react-philosophies)，React 哲学，内容为写 React 代码时思考的事情
 
-**此资料适用于小白入门、初中级进阶、高级查漏补缺。**
+### 代码样式及安全
 
-**内容每天都在更新，大家可以持续关注。**
+- [secguide](https://github.com/Tencent/secguide)，面向开发人员梳理的代码安全指南
 
-## 💻 如何使用
+## 生产力工具
 
-如果你是初中级工程师来说，笔者也推荐先行学习「前端核心学习路径」，主要是巩固基础，之后再挑选感兴趣的主题。
+### 流程图
 
-如果你是高级工程师，笔者推荐跳过「前端核心学习路径」，直接挑选感兴趣的主题学习即可。
-
-以下所有知识点笔者都会帮助读者朋友们将知识连贯起来，从而建立自己的知识体系而不是单独记忆松散的知识点。
-
-**推荐大家 Star 并 Fork 本项目（点击仓库顶部右上角按钮），然后 `git clone` 到本地后从上至下逐步完成学习计划。**
-
-## 如何获取本仓库资料
-
-**笔者已经将仓库内容里的重要资料整理好了，还附赠了前端 10 万字的面试攻略，已经帮助上千人拿到 offer。大家可以关注公众号发送「资料」获取。**
-
-<div align="center"><img src='./img/qrcode.jpeg' width=150 alt=''> </img></div>
-
-## 如何贡献
-
-推荐你认为优秀或者仓库缺失的内容至正确的位置即可，另外需要附带你的推荐理由。
+- [whimsical](https://whimsical.com/)
 
 ## 📖 目录
 
-- [🔥 这是什么？](#-这是什么)
-- [💻 如何使用](#-如何使用)
-- [如何获取本仓库资料](#如何获取本仓库资料)
-- [如何贡献](#如何贡献)
+- [日常充电](#日常充电)
+	- [CSS 日常充电](#css-日常充电)
+- [Github 优秀学习资料](#github-优秀学习资料)
+	- [JS 优秀学习资料](#js-优秀学习资料)
+	- [React 优秀学习资料](#react-优秀学习资料)
+	- [代码样式及安全](#代码样式及安全)
+- [生产力工具](#生产力工具)
+	- [流程图](#流程图)
 - [📖 目录](#-目录)
 - [如何高效自学](#如何高效自学)
 - [书籍推荐](#书籍推荐)
-  - [初级](#初级)
-  - [进阶](#进阶)
-  - [高级](#高级)
+	- [初级](#初级)
+	- [进阶](#进阶)
+	- [高级](#高级)
 - [前端核心学习路径](#前端核心学习路径)
-  - [JS 核心知识点](#js-核心知识点)
-    - [数据类型](#数据类型)
-    - [类型判断](#类型判断)
-    - [类型转换](#类型转换)
-    - [this](#this)
-    - [闭包](#闭包)
-    - [作用域](#作用域)
-    - [变量提升](#变量提升)
-    - [new](#new)
-    - [call、apply、bind](#callapplybind)
-    - [原型](#原型)
-    - [Class](#class)
-    - [继承](#继承)
-    - [模块化](#模块化)
-    - [Promise](#promise)
-    - [迭代器与生成器](#迭代器与生成器)
-    - [async await](#async-await)
-    - [事件循环](#事件循环)
-    - [节流与防抖](#节流与防抖)
-    - [柯里化](#柯里化)
-    - [垃圾回收](#垃圾回收)
-    - [设计模式](#设计模式)
-    - [其他零散但重要的知识点](#其他零散但重要的知识点)
-  - [HTML](#html)
-    - [语义化](#语义化)
-  - [CSS](#css)
-    - [盒子模型](#盒子模型)
-    - [选择器](#选择器)
-    - [Flex](#flex)
-    - [grid](#grid)
-    - [其他](#其他)
+	- [JS 核心知识点](#js-核心知识点)
+		- [数据类型](#数据类型)
+		- [类型判断](#类型判断)
+		- [类型转换](#类型转换)
+		- [this](#this)
+		- [闭包](#闭包)
+		- [作用域](#作用域)
+		- [变量提升](#变量提升)
+		- [new](#new)
+		- [call、apply、bind](#callapplybind)
+		- [原型](#原型)
+		- [Class](#class)
+		- [继承](#继承)
+		- [模块化](#模块化)
+		- [Promise](#promise)
+		- [迭代器与生成器](#迭代器与生成器)
+		- [async await](#async-await)
+		- [事件循环](#事件循环)
+		- [节流与防抖](#节流与防抖)
+		- [柯里化](#柯里化)
+		- [垃圾回收](#垃圾回收)
+		- [设计模式](#设计模式)
+		- [其他零散但重要的知识点](#其他零散但重要的知识点)
+	- [HTML](#html)
+		- [语义化](#语义化)
+	- [CSS](#css)
+		- [盒子模型](#盒子模型)
+		- [选择器](#选择器)
+		- [Flex](#flex)
+		- [grid](#grid)
+		- [其他](#其他)
 - [框架](#框架)
-  - [虚拟 DOM](#虚拟-dom)
-  - [路由](#路由)
+	- [虚拟 DOM](#虚拟-dom)
+	- [路由](#路由)
 - [React](#react)
-  - [React 推荐学习路径](#react-推荐学习路径)
-  - [React 推荐学习资料](#react-推荐学习资料)
-  - [如何编写一个组件](#如何编写一个组件)
-  - [受控组件和非受控组件](#受控组件和非受控组件)
-  - [高阶组件（HOC）](#高阶组件hoc)
-  - [Hooks](#hooks)
-  - [合成事件](#合成事件)
-  - [React 路由](#react-路由)
-  - [React 状态管理](#react-状态管理)
-  - [React 接口请求](#react-接口请求)
-  - [React SSR](#react-ssr)
-  - [React 单测](#react-单测)
-  - [React CSS 方案](#react-css-方案)
-  - [React 原理](#react-原理)
-  - [Blog 推荐](#blog-推荐)
+	- [React 推荐学习路径](#react-推荐学习路径)
+	- [React 推荐学习资料](#react-推荐学习资料)
+	- [如何编写一个组件](#如何编写一个组件)
+	- [受控组件和非受控组件](#受控组件和非受控组件)
+	- [高阶组件（HOC）](#高阶组件hoc)
+	- [Hooks](#hooks)
+	- [合成事件](#合成事件)
+	- [React 路由](#react-路由)
+	- [React 状态管理](#react-状态管理)
+	- [React 接口请求](#react-接口请求)
+	- [React SSR](#react-ssr)
+	- [React 单测](#react-单测)
+	- [React CSS 方案](#react-css-方案)
+	- [React 原理](#react-原理)
+	- [Blog 推荐](#blog-推荐)
 - [Vue](#vue)
-  - [Vue 推荐学习路径](#vue-推荐学习路径)
-  - [Vue 推荐学习资料](#vue-推荐学习资料)
-  - [Vue 原理](#vue-原理)
+	- [Vue 推荐学习路径](#vue-推荐学习路径)
+	- [Vue 推荐学习资料](#vue-推荐学习资料)
+	- [Vue 原理](#vue-原理)
 - [浏览器](#浏览器)
-  - [架构](#架构)
-  - [整体流程](#整体流程)
-  - [渲染相关](#渲染相关)
-  - [JS 执行机制](#js-执行机制)
-  - [缓存](#缓存)
-  - [Devtools](#devtools)
-  - [浏览器安全](#浏览器安全)
+	- [架构](#架构)
+	- [整体流程](#整体流程)
+	- [渲染相关](#渲染相关)
+	- [JS 执行机制](#js-执行机制)
+	- [缓存](#缓存)
+	- [Devtools](#devtools)
+	- [浏览器安全](#浏览器安全)
 - [性能优化](#性能优化)
-  - [推荐书籍](#推荐书籍)
-  - [推荐网站](#推荐网站)
-  - [整体优化建议](#整体优化建议)
-  - [性能指标](#性能指标)
-  - [性能监控](#性能监控)
+	- [推荐书籍](#推荐书籍)
+	- [推荐网站](#推荐网站)
+	- [整体优化建议](#整体优化建议)
+	- [性能指标](#性能指标)
+	- [性能监控](#性能监控)
 - [TypeScript](#typescript)
 - [Electron](#electron)
 - [组件库](#组件库)
 - [微前端](#微前端)
-  - [推荐学习资料](#推荐学习资料)
+	- [推荐学习资料](#推荐学习资料)
 - [跨端框架](#跨端框架)
 - [监控](#监控)
-- [日常充电](#日常充电)
-  - [CSS 日常充电](#css-日常充电)
-- [Github 优秀学习资料](#github-优秀学习资料)
-  - [JS 优秀学习资料](#js-优秀学习资料)
-  - [React 优秀学习资料](#react-优秀学习资料)
-  - [代码样式及安全](#代码样式及安全)
-- [生产力工具](#生产力工具)
-  - [流程图](#流程图)
-- [作者信息](#作者信息)
 
 ## 如何高效自学
 
@@ -875,44 +854,3 @@ Electron 是一个可以使用 Web 技术如 JavaScript、HTML 和 CSS 来创建
 - [如何做前端异常监控？](https://www.zhihu.com/question/29953354)
 - [前端监控平台系列：JS SDK（已开源）](https://juejin.cn/post/6862559324632252430#heading-17)
 - [前端监控 SDK 的一些技术要点原理分析](https://juejin.cn/post/7017974567943536671?utm_source=gold_browser_extension)
-
-## 日常充电
-
-- [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)，优秀的工程师都应该阅读的网站
-
-### CSS 日常充电
-
-- [You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css)
-- [CSS Inspiration](https://csscoco.com/inspiration/#/)
-- [CSS Tricks](https://qishaoxuan.github.io/css_tricks/)
-- [spinkit](https://tobiasahlin.com/spinkit/) 需自备梯子
-- [animista](https://animista.net/)
-
-## Github 优秀学习资料
-
-### JS 优秀学习资料
-
-- [33-js-concepts](https://github.com/leonardomso/33-js-concepts)
-- [JavaScript 安全指南](https://github.com/Tencent/secguide/blob/main/JavaScript%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97.md#1.1)
-- [What the f\*ck JavaScript?](https://github.com/denysdovhan/wtfjs)，有趣的 JavaScript 示例列表，附有解释
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)，适应于 JavaScript 的优雅代码建议
-
-### React 优秀学习资料
-
-- [react-philosophies](https://github.com/mithi/react-philosophies)，React 哲学，内容为写 React 代码时思考的事情
-
-### 代码样式及安全
-
-- [secguide](https://github.com/Tencent/secguide)，面向开发人员梳理的代码安全指南
-
-## 生产力工具
-
-### 流程图
-
-- [whimsical](https://whimsical.com/)
-
-## 作者信息
-
-| 微信扫码关注公众号，订阅更多精彩内容                                                                 | 加笔者微信进群与大厂大佬讨论技术                                                                    |
-| ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| <img src="https://yck-1254263422.cos.ap-shanghai.myqcloud.com/20191220223702.jpeg" width="500px;" /> | <img src="https://yck-1254263422.cos.ap-shanghai.myqcloud.com/20191220224224.png" width="260px;" /> |
